@@ -14,10 +14,13 @@ import {
   ChevronRight,
   LayoutDashboard,
   LogOut,
+  icons,
+  Info,
 } from 'lucide-react';
 import useUIStore from '../../store/uiStore';
 import useAuthStore from '../../store/authStore';
 import { useCategories } from '../../hooks/useProducts';
+import AboutUs from '../../pages/AboutUs';
 
 export default function MobileNav() {
   const location = useLocation();
@@ -73,6 +76,8 @@ export default function MobileNav() {
     { href: '/orders', label: 'My Orders', icon: Package },
     { href: '/account', label: 'Account', icon: User },
     { href: '/account/settings', label: 'Settings', icon: Settings },
+    { href: 'about', label: 'About Us', icon: Info }
+  
   ];
 
   return (

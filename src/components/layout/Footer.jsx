@@ -1,6 +1,7 @@
 // src/components/layout/Footer.jsx
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
+import AboutUs from '../../pages/AboutUs';
 import { 
   Facebook, 
   Twitter, 

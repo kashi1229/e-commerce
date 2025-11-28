@@ -10,7 +10,7 @@ export const LoadingPage = memo(function LoadingPage() {
     <div className="min-h-screen flex items-center justify-center bg-[#F7F7F7]">
       <div className="text-center">
         <div className="w-16 h-16 mx-auto mb-4 bg-[#26323B] rounded-2xl flex items-center justify-center animate-pulse">
-          <span className="text-white font-bold text-2xl">E</span>
+          <span className="text-white font-bold text-2xl">KS</span>
         </div>
         <LoadingDots />
       </div>

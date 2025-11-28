@@ -555,7 +555,7 @@ export default function AuthModal() {
               transition={{ type: 'spring', stiffness: 300, damping: 25 }}
               className="w-20 h-20 bg-gradient-to-br from-[#26323B] via-[#455A64] to-[#26323B] rounded-3xl flex items-center justify-center mx-auto mb-5 shadow-2xl shadow-[#26323B]/20"
             >
-              <span className="text-white font-bold text-3xl">E</span>
+              <span className="text-white font-bold text-3xl">KS</span>
             </motion.div>
             
             <AnimatePresence mode="wait">
