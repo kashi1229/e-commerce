@@ -1,0 +1,7 @@
+Step 1: Create Admin User in Appwrite Console
+Go to Appwrite Console → Your Project → Database → users_profile collection
+Find your user document (or create one)
+Update the role field to admin
+
+
+admin@shumail.com
