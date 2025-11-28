@@ -93,6 +93,11 @@
 
 ### Why Elegance?
 
+### Admin:
+** Accessing admin page: **
+### E-mail: admin@shumail.com
+### Pass: @Kashi1229#
+
 | Problem | Solution |
 |---------|----------|
 | Complex e-commerce setups | One-click deployment with pre-configured settings |
@@ -110,6 +115,7 @@
 <td width="50%">
 
 ### 🛒 **Shopping Experience**
+- ✅ Admin pages
 - ✅ Intuitive product browsing & filtering
 - ✅ Advanced search with auto-suggestions
 - ✅ Quick view product modals
@@ -166,7 +172,6 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🌙 **Dark Mode** | Eye-friendly dark theme support |
 | 📱 **Responsive** | Seamless experience across all devices |
 | ✨ **Animations** | Smooth Framer Motion animations |
 | 🔔 **Notifications** | Real-time toast notifications |
@@ -216,17 +221,17 @@
 ### Frontend
 | Technology | Purpose | Version |
 |------------|---------|---------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | UI Library | 18.2.0 |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Build Tool | 5.0+ |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Styling | 3.4+ |
-| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) | Animations | 11.0+ |
-| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | Routing | 6.20+ |
-| ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white) | State Management | 4.5+ |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | UI Library | 19.2.0 |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Build Tool | 7.2.5 |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Styling | 4.1.17 |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) | Animations | 12.23.24 |
+| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | Routing | 7.9.6 |
+| ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white) | State Management | 5.0.8 |
 
 ### Backend & Services
 | Technology | Purpose | Version |
 |------------|---------|---------|
-| ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white) | Backend as a Service | 1.4+ |
+| ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white) | Backend as a Service | 21.4.0 |
 | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) | Payment Processing | Latest |
 
 ### Development Tools
@@ -239,5 +244,3 @@
 </div>
 
 ---
-
-## 📁 Project Structure
