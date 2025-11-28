@@ -15,30 +15,30 @@ class Logger {
 
   debug(message, ...args) {
     if (isDebugEnabled || isDev) {
-      console.log(this._formatMessage('DEBUG', message), ...args);
+      // console.log(this._formatMessage('DEBUG', message), ...args);
     }
   }
 
   info(message, ...args) {
     if (isLoggingEnabled) {
-      console.info(this._formatMessage('INFO', message), ...args);
+      // console.info(this._formatMessage('INFO', message), ...args);
     }
   }
 
   success(message, ...args) {
     if (isLoggingEnabled) {
-      console.log(`%c${this._formatMessage('SUCCESS', message)}`, 'color: green', ...args);
+      // console.log(`%c${this._formatMessage('SUCCESS', message)}`, 'color: green', ...args);
     }
   }
 
   warn(message, ...args) {
     if (isLoggingEnabled) {
-      console.warn(this._formatMessage('WARN', message), ...args);
+      // console.warn(this._formatMessage('WARN', message), ...args);
     }
   }
 
   error(message, ...args) {
-    console.error(this._formatMessage('ERROR', message), ...args);
+    // console.error(this._formatMessage('ERROR', message), ...args);
   }
 }
 
