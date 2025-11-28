@@ -19,7 +19,7 @@ import useCartStore from '../store/cartStore';
 import Button from '../components/common/Button';
 import OrderSummary from '../components/checkout/OrderSummary';
 import EmptyState from '../components/common/EmptyState';
-import { LoadingSpinner } from '../components/common/Loading';
+import { Spinner } from '../components/common/Loading';
 import toast from 'react-hot-toast';
 
 export default function CartPage() {
@@ -71,7 +71,7 @@ export default function CartPage() {
   if (isLoading) {
     return (
       <div className="min-h-screen bg-[#F7F7F7] flex items-center justify-center">
-        <LoadingSpinner size="xl" />
+        <Spinner size="xl" />
       </div>
     );
   }

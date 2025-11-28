@@ -22,7 +22,7 @@ import useAuthStore from '../store/authStore';
 import useReviewStore from '../store/reviewStore';
 import Button from '../components/common/Button';
 import Input from '../components/common/Input';
-import { LoadingSpinner } from '../components/common/Loading';
+import {Spinner } from '../components/common/Loading';
 import { cn, formatDate } from '../lib/utils';
 import toast from 'react-hot-toast';
 
@@ -576,7 +576,7 @@ export default function UserReviewsPage() {
   if (authLoading) {
     return (
       <div className="min-h-screen bg-[#F7F7F7] flex items-center justify-center">
-        <LoadingSpinner size="lg" />
+        <Spinner size="lg" />
       </div>
     );
   }
@@ -669,7 +669,7 @@ export default function UserReviewsPage() {
         {/* Reviews List */}
         {isLoading ? (
           <div className="flex justify-center py-12">
-            <LoadingSpinner size="lg" />
+            <Spinner size="lg" />
           </div>
         ) : filteredReviews.length === 0 ? (
           <motion.div

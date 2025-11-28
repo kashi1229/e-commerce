@@ -25,7 +25,7 @@ import {
 } from 'lucide-react';
 import useReviewStore from '../../store/reviewStore';
 import Button from '../../components/common/Button';
-import { LoadingSpinner } from '../../components/common/Loading';
+import {Spinner } from '../../components/common/Loading';
 import { cn, formatDate } from '../../lib/utils';
 import toast from 'react-hot-toast';
 
@@ -603,7 +603,7 @@ export default function AdminReviewsPage() {
           {/* Reviews Table */}
           {isLoading ? (
             <div className="flex justify-center py-12">
-              <LoadingSpinner />
+              <Spinner />
             </div>
           ) : filteredReviews.length === 0 ? (
             <div className="text-center py-12">
