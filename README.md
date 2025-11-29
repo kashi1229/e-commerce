@@ -33,12 +33,12 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Vite-5.0-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-    <img src="https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/Appwrite-1.4-F02E65?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite">
-    <img src="https://img.shields.io/badge/Framer_Motion-11.0-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
-    <img src="https://img.shields.io/badge/Zustand-4.5-433E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand">
+    <img src="https://img.shields.io/badge/React-19.2.0-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/Vite-7.1.12-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+    <img src="https://img.shields.io/badge/TailwindCSS-4.1.17-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+    <img src="https://img.shields.io/badge/Appwrite-21.4.0-F02E65?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite">
+    <img src="https://img.shields.io/badge/Framer_Motion-12.23.24-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
+    <img src="https://img.shields.io/badge/Zustand-5.0.8-433E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand">
   </p>
 
   <p align="center">
@@ -98,6 +98,9 @@
 ** Accessing admin page: **
 ### E-mail: admin@shumail.com
 ### Pass: @Kashi1229#
+
+### Visiting Live:
+https://e-commerce-green-kappa-83.vercel.app/
 
 | Problem | Solution |
 |---------|----------|
