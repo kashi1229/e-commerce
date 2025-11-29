@@ -42,7 +42,7 @@
   </p>
 
   <p align="center">
-    <a href="#-demo">View Demo</a>
+    <a href="https://e-commerce-green-kappa-83.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/kashi1229/elegance-ecommerce/issues/new?template=bug_report.md">Report Bug</a>
     ·
